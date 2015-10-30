@@ -9,7 +9,8 @@
  ifstream fin;
  fin.open("data1.txt");
  double val =0;
- val = mean(fin);
+ cout << mean(fin) << endl;
+ cin >> val;
  fin.close();
  return 0;
  }
