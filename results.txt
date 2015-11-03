@@ -1,0 +1,19 @@
+The mean is: 18846
+ 
+The standard devaition for steel is: 376.554
+ 
+The standard deviation for graphite is: 299.113
+ 
+The max and min for steel are: 
+min: 17563
+
+max: 21065
+
+The max and min for graphite are: 
+min: 17324
+
+max: 20100
+
+The variance for steel is: 1.41793e+06
+ 
+The variance for graphite is: 894686
