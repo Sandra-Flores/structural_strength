@@ -4,7 +4,7 @@
 //  Name: Miguel Fletes
 //  Nov 1 ,2015
 // structural strength code
-/* Question answered: Going by the data, neither of the items will be able ot hold the amount of force required. If you go to three standard deviations the value will be below 16000 and as a result the bridge will succumb to the weight.*/
+/* Question answered: Going by the data, neither of the items will be able to hold the amount of force required. If you go to three standard deviations the value will be below 16000 and as a result the bridge will succumb to the weight.*/
 
 #include <vector>
 #include <iostream>
@@ -35,7 +35,7 @@ double var(ifstream& fin);
 	int numbers[SIZE] = {0};
 	int numbers1[SIZE] = {0};
 	string word;
-	
+	fout << "Daniel Calderon, Angel Gonzalez, Miguel Fletes, Sandra Flores" << endl;
 	val = mean(fin);
 	fout << "The mean is: " << val << endl;
 	fout << " " << endl;

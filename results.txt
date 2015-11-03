@@ -1,3 +1,4 @@
+Daniel Calderon, Angel Gonzalez, Miguel Fletes, Sandra Flores
 The mean is: 18846
  
 The standard devaition for steel is: 376.554

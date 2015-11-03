@@ -35,7 +35,7 @@ double var(ifstream& fin);
 	int numbers[SIZE] = {0};
 	int numbers1[SIZE] = {0};
 	string word;
-	
+	fout << "Daniel Calderon, Angel Gonzalez, Miguel Fletes, Sandra Flores" << endl;
 	val = mean(fin);
 	fout << "The mean is: " << val << endl;
 	fout << " " << endl;
